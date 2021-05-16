@@ -293,7 +293,7 @@ class: font160
 
 * Hard to generally classify people as susceptible to influencers or organically 'likely' influential 
 
-* Influencers lead to increased early adoption & can be generate good ROI 
+* Influencers lead to increased early adoption & can generate good ROI 
 
 * Growing push for regulation $\rightarrow$ consumer's engagement with influencers decreases
 
