@@ -29,6 +29,7 @@ class: inverse, center, middle
 # The Influncer Marketplace
 
 ---
+class: font160
 # What is Influencer Marketing?
 
 > **Influencer Marketing**: A type of social media marketing that uses endorsements and product mentions from influencers
@@ -44,6 +45,7 @@ Types of influencers:
 * How large there reach is: mega, macro, micro, nano 
 
 ---
+class: font130
 # The Influencer Market 
 
 **Stylized Facts**:
@@ -126,6 +128,7 @@ knitr::include_graphics("figs/aral_fig_01.png")
 ```
 
 ---
+class: font140
 # Takeaways?
 
 **Most susceptible to influence:**
@@ -143,6 +146,8 @@ knitr::include_graphics("figs/aral_fig_01.png")
 **Question: Are these variables capturing something unobserved?**
 
 I think the answer is yes... 
+
+* These groups feel artificial, and likely capturing something related to interests
 
 ---
 class: inverse, center, middle
@@ -263,7 +268,7 @@ knitr::include_graphics("figs/ershov_fig_02.png")
 # Disclosure Before & After
 
 
-```{r, echo = FALSE, fig.align = "center", out.width="85%"}
+```{r, echo = FALSE, fig.align = "center", out.width="110%"}
 knitr::include_graphics("figs/ershov_did_01.png")
 ```
 
@@ -271,7 +276,7 @@ knitr::include_graphics("figs/ershov_did_01.png")
 # Engagement Metrics
 
 
-```{r, echo = FALSE, fig.align = "center", out.width="85%"}
+```{r, echo = FALSE, fig.align = "center", out.width="110%"}
 knitr::include_graphics("figs/ershov_did_02.png")
 ```
 
@@ -281,6 +286,7 @@ class: inverse, center, middle
 # Recap
 
 ---
+class: font160
 # Recap
 
 * Influencer market is large, mostly 'unregulated' 
@@ -289,7 +295,7 @@ class: inverse, center, middle
 
 * Influencers lead to increased early adoption & can be generate good ROI 
 
-* Growing push for regulation $\rightarrow$ consumer's engagementwith influencers decreases
+* Growing push for regulation $\rightarrow$ consumer's engagement with influencers decreases
 
 ---
 # License & Citation
