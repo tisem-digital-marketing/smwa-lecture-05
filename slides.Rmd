@@ -94,7 +94,7 @@ class: inverse, center, middle
 class: font160
 # Influence and Susceptibility
 
-**Motivation**: How does behavior spread through a social network?
+**Motivation**: How does behaviour spread through a social network?
 
 **Specific Questions**:
 
@@ -116,7 +116,7 @@ class: font160
 
 * Outcome variable: Time to peer adoption
   * $\implies$ estimate a hazard model 
-  * Hazard ratio > 1 increased susceptiblity / influence
+  * Hazard ratio > 1 increased susceptibility / influence
 
 **Note: The design is nice...**
 
@@ -179,7 +179,7 @@ class: font160
 * Two Treatments: 
   * Online discussion group on WeChat per village 
   * Add eminent local personalities 
-    * "peer encouragment design"
+    * "peer encouragement design"
 
 * Outcome variables:
   * Farmers trial a product
