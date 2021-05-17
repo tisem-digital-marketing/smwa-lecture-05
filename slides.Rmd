@@ -26,7 +26,7 @@ class: font200
 ---
 class: inverse, center, middle
 
-# The Influncer Marketplace
+# The Influencer Marketplace
 
 ---
 class: font160
